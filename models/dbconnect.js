@@ -21,13 +21,14 @@ mongoose
 /* 
 
 Login : -
+[[admin]]
   {
     "name":"Admin",
     "email":"admin1234@gmail.com",
     "password":123456
     
 }
-
+[[user]]
 {
     "name":"Dhananjay",
     "email":"Dhananjay1234@gmail.com",
